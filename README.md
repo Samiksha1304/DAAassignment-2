@@ -1,4 +1,4 @@
-# DAAassignment-2
+# DAA assignment-2
 # Graph coloring Implementation
 ### Name - Samiksha Anasane
 ### Roll no- 18
