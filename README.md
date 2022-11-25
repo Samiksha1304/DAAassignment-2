@@ -25,6 +25,8 @@ Step 4 − Choose the next vertex and color it with the lowest numbered color th
 
 ### Test case 1 : 
 
+![download](https://user-images.githubusercontent.com/78160711/204036364-507bd8cd-d45d-4c31-988a-5addd42fdb50.png)
+
 Vertices = 4
 Edges = 5
 
@@ -51,6 +53,8 @@ Vertex 4 is colored with color 3
 
 
 ### Test case 2 :
+![images](https://user-images.githubusercontent.com/78160711/204036428-25b0afd7-0da6-4216-accb-1fb436e17927.png)
+
 
 Vertices : 5
 Edges : 7
@@ -82,6 +86,8 @@ Vertex 4 is colored with color 2
 Vertex 5 is colored with color 3
 
 ### Test case 3 :
+
+![total](https://user-images.githubusercontent.com/78160711/204036290-75d0629a-a92d-404b-b5ae-ca45fe9a588a.png)
 
 Vertices : 4
 Edges : 6
