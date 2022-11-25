@@ -39,9 +39,13 @@ Edges = 5
  edge no. 5 : 1 4
 
 Output: 
+
 Vertex 1 is colored with color 1
+
 Vertex 2 is colored with color 2
+
 Vertex 3 is colored with color 2
+
 Vertex 4 is colored with color 3
 
 
@@ -64,11 +68,17 @@ Edges : 7
  edge no. 6 : 3 5
 
  edge no. 7 : 4 5
+ 
+Output: 
 
 Vertex 1 is colored with color 1
+
 Vertex 2 is colored with color 2
+
 Vertex 3 is colored with color 1
+
 Vertex 4 is colored with color 2
+
 Vertex 5 is colored with color 3
 
 ### Test case 3 :
@@ -88,7 +98,12 @@ edge no. 5 : 2 4
 
 edge no. 6 : 3 4
 
+Output: 
+
 Vertex 1 is colored with color 1
+
 Vertex 2 is colored with color 2
+
 Vertex 3 is colored with color 3
+
 Vertex 4 is colored with color 4 
